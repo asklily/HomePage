@@ -1,3 +1,3 @@
-# HomePage
+﻿# HomePage
 
-*test�ł�
+*testです
